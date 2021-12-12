@@ -11,6 +11,7 @@ import java.io.IOException;
 /** если не делать аннотацию в  web.xml */
 //@WebServlet(name = "ProductServlet", urlPatterns = "/product-annotations")
 
+
 public class ProductServlet extends HttpServlet {
 
     @Override
